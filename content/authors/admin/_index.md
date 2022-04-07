@@ -1,28 +1,24 @@
 ---
 role: Software Engineer
 avatar_filename: philip_hausner_photo.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Python Enthusiast
+  - Natural Language Processing
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon_pack: ai
+    link: https://scholar.google.de/citations?user=W6sRcLsAAAAJ&hl=en&oi=ao
   - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon_pack: ai
+    link: https://github.com/PhilipEHausner/
   - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon_pack: ai
+    link: https://www.linkedin.com/in/philip-hausner/?locale=en_US
 organizations:
   - name: Quality Match
     url: https://www.quality-match.com/
@@ -42,9 +38,6 @@ highlight_name: true
 title: Philip Hausner
 email: ""
 ---
+Welcome to my personal website, I am Philip Hausner, a software engineer at Quality Match {{< staticref "https://www.quality-match.com/" "newtab" >}}. I graduated from Heidelberg University in 2020 with a Master's degree in applied computer science and a minor in computational linguistics.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} For more information about me, download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}cv{{< /staticref >}}.
