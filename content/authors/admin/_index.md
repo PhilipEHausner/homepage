@@ -24,20 +24,17 @@ organizations:
     url: https://www.quality-match.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc. in Applied Computer Science
+      institution: Heidelberg University
+      year: 2020
+    - course: B.Sc. in Applied Computer Science
+      institution: Heidelberg University
+      year: 2018
 superuser: true
 highlight_name: true
 title: Philip Hausner
 email: ""
 ---
-Welcome to my personal website, I am Philip Hausner, a software engineer at Quality Match {{< staticref "https://www.quality-match.com/" "newtab" >}}. I graduated from Heidelberg University in 2020 with a Master's degree in applied computer science and a minor in computational linguistics.
+Welcome to my personal website, I am Philip Hausner, a software engineer at {{< staticref "https://www.quality-match.com/" "newtab" >}}Quality Match{{< /staticref >}}. I graduated from Heidelberg University in 2020 with a Master's degree in applied computer science and a minor in computational linguistics.
 
 {{< icon name="download" pack="fas" >}} For more information about me, download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}cv{{< /staticref >}}.
