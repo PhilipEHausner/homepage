@@ -1,6 +1,6 @@
 ---
 role: Software Engineer
-avatar_filename: avatar.jpg
+avatar_filename: philip_hausner_photo.jpg
 bio: ""
 interests:
   - Python Enthusiast
