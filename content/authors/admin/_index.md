@@ -37,4 +37,4 @@ email: ""
 ---
 Welcome to my personal website, I am Philip Hausner, a software engineer at {{< staticref "https://www.quality-match.com/" "newtab" >}}Quality Match{{< /staticref >}}. I graduated from Heidelberg University in 2020 with a Master's degree in applied computer science and a minor in computational linguistics.
 
-{{< icon name="download" pack="fas" >}} For more information about me, download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}cv{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} For more information about me, download my {{< staticref "uploads/resume.pdf" "newtab" >}}cv{{< /staticref >}}.
