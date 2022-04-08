@@ -25,8 +25,8 @@ feature:
   icon_pack: fab
   name: AWS
 - description:
-  icon: brain-circuit
-  icon_pack: fab
+  icon: code
+  icon_pack: fas
   name: Machine Learning
 
 # Uncomment to use emoji icons.
