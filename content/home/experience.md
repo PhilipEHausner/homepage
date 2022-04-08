@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: Quality Match
     company_url: 'https://www.quality-match.com/'
-    company_logo: qm-logo
+    company_logo: Quality_Match_Logo_RGB
     location: Heidelberg, Germany
     date_start: '2021-09-15'
     date_end: ''
@@ -39,7 +39,6 @@ experience:
   - title: Research Associate
     company: Heidelberg University
     company_url: 'https://dbs.ifi.uni-heidelberg.de/team/hausner/'
-    company_logo: uni-hd-logo
     location: Heidelberg
     date_start: '2020-04-01'
     date_end: '2021-09-14'
