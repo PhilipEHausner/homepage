@@ -17,16 +17,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: fa-python
-  icon_pack: fa-brands
+  icon: python
+  icon_pack: fab
   name: Python
 - description:
-  icon: fa-aws
-  icon_pack: fa-brands
+  icon: aws
+  icon_pack: fas
   name: AWS
 - description:
-  icon: fa-brain-circuit
-  icon_pack: fa-solid
+  icon: brain-circuit
+  icon_pack: fas
   name: Machine Learning
 
 # Uncomment to use emoji icons.
