@@ -9,7 +9,7 @@ authors:
 - Michael Gertz
 
 # Author notes (optional)
-author_notes:
+
 
 date: "2021-05-08T00:00:00Z"
 doi: ""
@@ -32,7 +32,7 @@ One approach to this is the automatic detection of dark patterns which enables t
 In this paper, we present ongoing work in the direction of automatic detection of dark patterns, and outline an example to detect malicious patterns within the domain of cookie banners.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 tags: [Dark Patterns]
 
 # Display this page in the Featured widget?
@@ -64,8 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
