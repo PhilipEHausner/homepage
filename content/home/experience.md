@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: Quality Match
     company_url: 'https://www.quality-match.com/'
-    company_logo: Quality_Match_Logo_RGB
+    company_logo: qm-logo
     location: Heidelberg, Germany
     date_start: '2021-09-15'
     date_end: ''
