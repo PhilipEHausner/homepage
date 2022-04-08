@@ -11,13 +11,13 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: graduation-cap
-    icon_pack: ai
+    icon_pack: fas
     link: https://scholar.google.de/citations?user=W6sRcLsAAAAJ&hl=en&oi=ao
   - icon: github
-    icon_pack: ai
+    icon_pack: fab
     link: https://github.com/PhilipEHausner/
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.linkedin.com/in/philip-hausner/?locale=en_US
 organizations:
   - name: Quality Match
@@ -33,7 +33,7 @@ education:
 superuser: true
 highlight_name: true
 title: Philip Hausner
-email: ""
+email: "Philip.E.Hausner@gmail.com"
 ---
 Welcome to my personal website, I am Philip Hausner, a software engineer at {{< staticref "https://www.quality-match.com/" "newtab" >}}Quality Match{{< /staticref >}}. I graduated from Heidelberg University in 2020 with a Master's degree in applied computer science and a minor in computational linguistics.
 
