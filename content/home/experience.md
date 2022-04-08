@@ -22,28 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Software Engineer
+    company: Quality Match
+    company_url: 'https://www.quality-match.com/'
+    company_logo: qm-logo
+    location: Heidelberg, Germany
+    date_start: '2021-09-15'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Cloud architecture
+        * Database architecture for search purposes
+        * Customer projects
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Associate
+    company: Heidelberg University
+    company_url: 'https://dbs.ifi.uni-heidelberg.de/team/hausner/'
+    company_logo: uni-hd-logo
+    location: Heidelberg
+    date_start: '2020-04-01'
+    date_end: '2021-09-14'
+    description: |2-
+        Ph.D. student in the field of Dark Pattern detection.
+        Research topics and work include:
+        
+        * Dark Patterns
+        * Content and Knowledge Management
+        * Machine Learning, particularly Graph Neural Networks
+        * Teaching in the area of Databases and Text Analytics
+        
 
 design:
   columns: '2'
