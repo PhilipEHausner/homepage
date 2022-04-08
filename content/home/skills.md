@@ -22,11 +22,11 @@ feature:
   name: Python
 - description:
   icon: aws
-  icon_pack: fas
+  icon_pack: fab
   name: AWS
 - description:
   icon: brain-circuit
-  icon_pack: fas
+  icon_pack: fab
   name: Machine Learning
 
 # Uncomment to use emoji icons.
