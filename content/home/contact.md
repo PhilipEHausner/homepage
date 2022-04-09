@@ -22,12 +22,12 @@ content:
       name: Mail Me
       link: 'Philip.E.Hausner@gmail.com'
     - icon: linkedin
-      icon_pack: fas
+      icon_pack: fab
       name: Message Me via LinkedIn
       link: 'https://www.linkedin.com/in/philip-hausner/?locale=en_US'
-    - icon: linkedin
-      icon_pack: fas
-      name: Message Me via LinkedIn
+    - icon: github
+      icon_pack: fab
+      name: Message Me via Github
       link: 'https://github.com/PhilipEHausner'
     
 
