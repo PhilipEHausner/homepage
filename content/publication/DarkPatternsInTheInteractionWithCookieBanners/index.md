@@ -12,7 +12,7 @@ authors:
 author_notes:
 - ""
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-05-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *What Can CHI Do About Dark Patterns? CHI Workshop*
-publication_short: In *Workshop CHI*
+publication_short: In *Workshop@CHI*
 
 abstract: Dark patterns are interface designs that nudge users towards behavior that is against their best interests. Since humans are often not even aware that they are influenced by these malicious patterns, research has to identify ways to protect web users against them. One approach to this is the automatic detection of dark patterns which enables the development of tools that are able to protect users by proactively warning them in cases where they face a dark pattern. In this paper, we present ongoing work in the direction of automatic detection of dark patterns, and outline an example to detect malicious patterns within the domain of cookie banners.
 
