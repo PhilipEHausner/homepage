@@ -1,5 +1,5 @@
 ---
-title: "UniHD@CL-SciSumm 2020: Citation Extraction as Search"
+title: "Tumble-Vortex Core Line Extraction"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
