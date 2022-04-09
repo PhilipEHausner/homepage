@@ -18,7 +18,7 @@ content:
   # Contact details (edit or remove options as required)
   contact_links:
     - icon: envelope
-      icon_pack: fab
+      icon_pack: fas
       name: Mail Me
       link: 'Philip.E.Hausner@gmail.com'
     - icon: linkedin
