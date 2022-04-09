@@ -12,4 +12,13 @@ header:
   image: ""
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+If not specified otherwise, all content has been created by Philip Hausner and is licenced under a Creative Commons Attribution 3.0 Unported Licence.
+
+---BEGIN GERMAN LEGAL MUMBO-JUMBO---
+    
+    Verantwortlich für diese Webseite ist im Sinne aller geltenden deutschen Gesetze:
+    Philip Hausner
+    Philipp-Otto-Runge Str. 10
+    69126 Heidelberg
+    
+---END GERMAN LEGAL MUMBO-JUMBO---
