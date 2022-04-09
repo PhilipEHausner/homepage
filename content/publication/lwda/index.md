@@ -1,4 +1,4 @@
-c---
+---
 title: "News Article Extraction Using Graph Embeddings"
 
 # Authors

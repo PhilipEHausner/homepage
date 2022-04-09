@@ -1,4 +1,4 @@
-c---
+---
 title: "Time-centric Exploration of Court Documents"
 
 # Authors

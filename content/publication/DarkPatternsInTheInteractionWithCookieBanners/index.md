@@ -1,4 +1,4 @@
-c---
+---
 title: "Dark Patterns in the Interaction with Cookie Banners"
 
 # Authors
