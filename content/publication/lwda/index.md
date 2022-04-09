@@ -32,7 +32,7 @@ abstract: Content extraction from web pages is a challenging task due to the het
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Graph Representation Learning, Web Content Extraction, Boilerplate Removal]
+tags: [Graph Representation Learning, Web Content Extraction, Boilerplate Removal, Text Analytics]
 
 # Display this page in the Featured widget?
 featured: true

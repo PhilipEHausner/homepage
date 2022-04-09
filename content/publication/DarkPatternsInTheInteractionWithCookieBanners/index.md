@@ -32,7 +32,7 @@ abstract: Dark patterns are interface designs that nudge users towards behavior 
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Dark Patterns, Cookie Banner, Web Content Extraction]
+tags: [Dark Patterns, Cookie Banner, Web Content Extraction, Text Analytics]
 
 # Display this page in the Featured widget?
 featured: true
