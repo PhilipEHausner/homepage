@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-If not specified otherwise, all content has been created by Philip Hausner and is licenced under a Creative Commons Attribution 3.0 Unported Licence.
+If not specified otherwise, all content has been created by Philip Hausner and is licenced under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY NC ND 4.0.</a>
 
 ---BEGIN GERMAN LEGAL MUMBO-JUMBO---
     
