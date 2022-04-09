@@ -1,5 +1,5 @@
 c---
-title: "Dark Patterns in the Interaction with Cookie Banners"
+title: "News Article Extraction Using Graph Embeddings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,7 +12,7 @@ authors:
 author_notes:
 - ""
 
-date: "2021-05-08T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,14 +25,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *What Can CHI Do About Dark Patterns? CHI Workshop*
-publication_short: In *Workshop@CHI*
+publication: In *LWDA - Learning. Knowledge. Data. Analytics. 2021*
+publication_short: In *LWDA 2021*
 
-abstract: Dark patterns are interface designs that nudge users towards behavior that is against their best interests. Since humans are often not even aware that they are influenced by these malicious patterns, research has to identify ways to protect web users against them. One approach to this is the automatic detection of dark patterns which enables the development of tools that are able to protect users by proactively warning them in cases where they face a dark pattern. In this paper, we present ongoing work in the direction of automatic detection of dark patterns, and outline an example to detect malicious patterns within the domain of cookie banners.
+abstract: Content extraction from web pages is a challenging task due to the heterogeneous nature of the web. In this work, a novel method for the extraction of news articles from arbitrary news article pages is presented that aims to identify the main article content, and removes other elements such as advertisements, navigation elements or comments, that are also commonly present on news article pages. To achieve this, the method utilizes the structure of the DOM tree, which underlies each web page as a hierarchical graph structure, and applies graph representation learning to compute suitable graph embeddings. These graph embeddings are then used to classify web page elements as content or no content, and an additional refinement step then extracts the main article text and removes remaining noise. In the final evaluation on a hand annotated data set collected from 16 German news outlets, we showcase that our method beats all baselines by a significant margin, while only being trained on a comparatively small data set.
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Dark Patterns, Cookie Banner, Web Content Extraction]
+tags: [Graph Representation Learning, Web Content Extraction, Boilerplate Removal]
 
 # Display this page in the Featured widget?
 featured: true
