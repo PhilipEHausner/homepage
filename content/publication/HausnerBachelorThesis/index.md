@@ -1,5 +1,5 @@
 ---
-title: "Visualization of Streamline Distributions in Uncertain $2$D Vector Fields"
+title: "Visualization of Streamline Distributions in Uncertain 2D Vector Fields"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -30,7 +30,7 @@ abstract: Streamlines are a common visualization concept to describe the structu
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Scientific Visualization, Vortex Core Line Extraction]
+tags: [Scientific Visualization, Uncertain Streamlines]
 
 # Display this page in the Featured widget?
 featured: true
