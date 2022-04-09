@@ -20,7 +20,7 @@ content:
     - icon: envelope
       icon_pack: fas
       name: Mail Me
-      link: 'Philip.E.Hausner@gmail.com'
+      link: 'mailto:Philip.E.Hausner@gmail.com'
     - icon: linkedin
       icon_pack: fab
       name: Message Me via LinkedIn
